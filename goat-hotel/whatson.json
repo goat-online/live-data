@@ -65,6 +65,15 @@
       "url": "https://the-cottageloaf.co.uk/"
     },
     {
+      "date": "2026-10-09",
+      "day": "Friday",
+      "time": "6pm–11pm",
+      "title": "Oktoberfest Conwy: German beer, live music and a heated marquee (18+, tickets)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://conwyfest.com/"
+    },
+    {
       "date": "2026-10-10",
       "day": "Saturday",
       "time": "6:30pm",
@@ -72,6 +81,24 @@
       "venue": "The Motorsport Lounge",
       "category": "live-music",
       "url": "https://www.themotorsportlounge.com/"
+    },
+    {
+      "date": "2026-10-10",
+      "day": "Saturday",
+      "time": "12pm and 6pm",
+      "title": "Oktoberfest Conwy: afternoon and evening sessions (18+, tickets)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://conwyfest.com/"
+    },
+    {
+      "date": "2026-10-11",
+      "day": "Sunday",
+      "time": "12pm–4pm",
+      "title": "Oktoberfest Conwy: Sunday afternoon session (18+, tickets)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://conwyfest.com/"
     },
     {
       "date": "2026-10-13",
