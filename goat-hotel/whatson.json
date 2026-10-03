@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "events": [
-    {
-      "date": "2026-10-02",
-      "day": "Friday",
-      "time": "6:30pm",
-      "title": "The Darker My Horizon: live album recording + Gone Savage",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.themotorsportlounge.com/"
-    },
-    {
-      "date": "2026-10-02",
-      "day": "Friday",
-      "time": "Evening",
-      "title": "Live music",
-      "venue": "The Cottage Loaf",
-      "category": "live-music",
-      "url": "https://the-cottageloaf.co.uk/"
-    },
     {
       "date": "2026-10-03",
       "day": "Saturday",
@@ -40,20 +22,20 @@
     {
       "date": "2026-10-06",
       "day": "Tuesday",
-      "time": "9:00pm",
-      "title": "Music quiz night",
-      "venue": "Kings Head Pub",
-      "category": "quiz",
-      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
-    },
-    {
-      "date": "2026-10-06",
-      "day": "Tuesday",
       "time": "Evening",
       "title": "Pub quiz",
       "venue": "Castle View Bar & Restaurant, Deganwy",
       "category": "quiz",
       "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-10-06",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
       "date": "2026-10-07",
@@ -74,6 +56,15 @@
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     },
     {
+      "date": "2026-10-09",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
       "date": "2026-10-10",
       "day": "Saturday",
       "time": "6:30pm",
@@ -81,6 +72,15 @@
       "venue": "The Motorsport Lounge",
       "category": "live-music",
       "url": "https://www.themotorsportlounge.com/"
+    },
+    {
+      "date": "2026-10-13",
+      "day": "Tuesday",
+      "time": "Evening",
+      "title": "Pub quiz",
+      "venue": "Castle View Bar & Restaurant, Deganwy",
+      "category": "quiz",
+      "url": "https://castleviewpub.com/"
     },
     {
       "date": "2026-10-13",
@@ -101,6 +101,15 @@
       "url": "https://www.llandudnofc.co.uk/clubhouse"
     },
     {
+      "date": "2026-10-14",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "title": "Quiz night",
+      "venue": "LC Drink & Dine",
+      "category": "quiz",
+      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
+    },
+    {
       "date": "2026-10-16",
       "day": "Friday",
       "time": "6:30pm",
@@ -108,6 +117,15 @@
       "venue": "The Motorsport Lounge",
       "category": "live-music",
       "url": "https://www.themotorsportlounge.com/"
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-10-17",
@@ -125,7 +143,7 @@
       "title": "Llandudno Fireworks Display",
       "venue": "North Shore Beach, Llandudno",
       "category": "market",
-      "url": "https://www.visitconwy.org.uk/event/llandudno-fireworks-display-2026/62126101/"
+      "url": "https://www.llandudno.gov.uk/en/events/fireworks/"
     },
     {
       "date": "2026-10-29",
