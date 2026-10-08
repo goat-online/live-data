@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "events": [
-    {
-      "date": "2026-10-07",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Pub quiz",
-      "venue": "Llandudno FC Clubhouse",
-      "category": "quiz",
-      "url": "https://www.llandudnofc.co.uk/clubhouse"
-    },
-    {
-      "date": "2026-10-07",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Quiz night",
-      "venue": "LC Drink & Dine",
-      "category": "quiz",
-      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
-    },
     {
       "date": "2026-10-09",
       "day": "Friday",
