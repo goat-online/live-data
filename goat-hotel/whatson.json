@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "events": [
     {
       "date": "2026-10-09",
@@ -207,6 +207,15 @@
       "venue": "Wild Horse Taproom",
       "category": "quiz",
       "url": "https://wildhorsebrewing.co.uk/pages/booking"
+    },
+    {
+      "date": "2026-10-30",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     }
   ]
 }
