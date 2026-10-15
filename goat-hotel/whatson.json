@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "events": [
-    {
-      "date": "2026-10-14",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Pub quiz",
-      "venue": "Llandudno FC Clubhouse",
-      "category": "quiz",
-      "url": "https://www.llandudnofc.co.uk/clubhouse"
-    },
-    {
-      "date": "2026-10-14",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Quiz night",
-      "venue": "LC Drink & Dine",
-      "category": "quiz",
-      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
-    },
     {
       "date": "2026-10-16",
       "day": "Friday",
@@ -153,6 +135,51 @@
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Saturday",
+      "time": "6:30pm",
+      "title": "Monkeywrench (Foo Fighters tribute)",
+      "venue": "The Motorsport Lounge",
+      "category": "live-music",
+      "url": "https://www.eventbrite.co.uk/e/1981163259641"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tuesday",
+      "time": "Evening",
+      "title": "Pub quiz",
+      "venue": "Castle View Bar & Restaurant, Deganwy",
+      "category": "quiz",
+      "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "title": "Pub quiz",
+      "venue": "Llandudno FC Clubhouse",
+      "category": "quiz",
+      "url": "https://www.llandudnofc.co.uk/clubhouse"
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "title": "Quiz night",
+      "venue": "LC Drink & Dine",
+      "category": "quiz",
+      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     }
   ]
 }
