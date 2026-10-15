@@ -29,13 +29,22 @@
       "url": "https://www.themotorsportlounge.com/"
     },
     {
-      "date": "2026-10-20",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "title": "Music quiz night",
-      "venue": "Kings Head Pub",
-      "category": "quiz",
-      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
+      "date": "2026-10-18",
+      "day": "Sunday",
+      "time": "2:00pm",
+      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
+      "venue": "St Mary's Church Hall, Betws-y-Coed",
+      "category": "live-music",
+      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
+      "welsh": true
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "The Gladstone, Dwygyfylchi",
+      "category": "live-music"
     },
     {
       "date": "2026-10-20",
@@ -45,6 +54,25 @@
       "venue": "Castle View Bar & Restaurant, Deganwy",
       "category": "quiz",
       "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tuesday",
+      "time": "8:15pm",
+      "title": "Côr Meibion Colwyn: male voice choir concert (£10 on the door)",
+      "venue": "St John's Methodist Church, Llandudno",
+      "category": "live-music",
+      "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
+      "welsh": true
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
       "date": "2026-10-21",
@@ -74,6 +102,14 @@
       "url": "https://the-cottageloaf.co.uk/"
     },
     {
+      "date": "2026-10-26",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "The Gladstone, Dwygyfylchi",
+      "category": "live-music"
+    },
+    {
       "date": "2026-10-27",
       "day": "Tuesday",
       "time": "7:00pm",
@@ -85,20 +121,20 @@
     {
       "date": "2026-10-27",
       "day": "Tuesday",
-      "time": "9:00pm",
-      "title": "Music quiz night",
-      "venue": "Kings Head Pub",
-      "category": "quiz",
-      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
-    },
-    {
-      "date": "2026-10-27",
-      "day": "Tuesday",
       "time": "Evening",
       "title": "Pub quiz",
       "venue": "Castle View Bar & Restaurant, Deganwy",
       "category": "quiz",
       "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-10-27",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
       "date": "2026-10-28",
@@ -146,13 +182,12 @@
       "url": "https://www.eventbrite.co.uk/e/1981163259641"
     },
     {
-      "date": "2026-11-03",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "title": "Music quiz night",
-      "venue": "Kings Head Pub",
-      "category": "quiz",
-      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
+      "date": "2026-10-31",
+      "day": "Saturday",
+      "time": "8:00pm",
+      "title": "Traditional folk session",
+      "venue": "Tŷ Gwyn, Rowen",
+      "category": "live-music"
     },
     {
       "date": "2026-11-03",
@@ -162,6 +197,15 @@
       "venue": "Castle View Bar & Restaurant, Deganwy",
       "category": "quiz",
       "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-11-03",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
       "date": "2026-11-04",
@@ -180,6 +224,46 @@
       "venue": "LC Drink & Dine",
       "category": "quiz",
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
+    },
+    {
+      "date": "2026-11-21",
+      "day": "Saturday",
+      "time": "12:30pm",
+      "title": "Côr Meibion Caerwys: White Ribbon concert",
+      "venue": "St John's Methodist Church, Llandudno",
+      "category": "live-music",
+      "url": "https://www.corcaerwys.co.uk/",
+      "welsh": true
+    },
+    {
+      "date": "2026-11-29",
+      "day": "Sunday",
+      "time": "4:30pm",
+      "title": "Côr Meibion Colwyn: Tree of Lights carols",
+      "venue": "The Prom, Rhos-on-Sea",
+      "category": "live-music",
+      "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
+      "welsh": true
+    },
+    {
+      "date": "2026-12-16",
+      "day": "Wednesday",
+      "time": "7:30pm",
+      "title": "Côr Meibion Colwyn: Christmas concert",
+      "venue": "St John's Methodist Church, Llandudno",
+      "category": "live-music",
+      "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
+      "welsh": true
+    },
+    {
+      "date": "2026-12-20",
+      "day": "Sunday",
+      "time": "7:30pm",
+      "title": "Côr Meibion Colwyn: last carols of the year",
+      "venue": "St John's Church, Old Colwyn",
+      "category": "live-music",
+      "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
+      "welsh": true
     }
   ]
 }
