@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "events": [
     {
       "date": "2026-10-16",
@@ -49,21 +49,21 @@
     {
       "date": "2026-10-20",
       "day": "Tuesday",
-      "time": "8:30pm",
-      "title": "Pub quiz (a hard one, and good fun)",
-      "venue": "Castle View Bar & Restaurant, Deganwy",
-      "category": "quiz",
-      "url": "https://castleviewpub.com/"
-    },
-    {
-      "date": "2026-10-20",
-      "day": "Tuesday",
       "time": "8:15pm",
       "title": "Côr Meibion Colwyn: male voice choir concert (£10 on the door)",
       "venue": "St John's Methodist Church, Llandudno",
       "category": "live-music",
       "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
       "welsh": true
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tuesday",
+      "time": "8:30pm",
+      "title": "Pub quiz (a hard one, and good fun)",
+      "venue": "Castle View Bar & Restaurant, Deganwy",
+      "category": "quiz",
+      "url": "https://castleviewpub.com/"
     },
     {
       "date": "2026-10-20",
@@ -190,6 +190,14 @@
       "category": "live-music"
     },
     {
+      "date": "2026-11-02",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "The Gladstone, Dwygyfylchi",
+      "category": "live-music"
+    },
+    {
       "date": "2026-11-03",
       "day": "Tuesday",
       "time": "8:30pm",
@@ -224,6 +232,15 @@
       "venue": "LC Drink & Dine",
       "category": "quiz",
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
+    },
+    {
+      "date": "2026-11-06",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-11-21",
