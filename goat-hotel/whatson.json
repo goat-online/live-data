@@ -1,24 +1,6 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "events": [
-    {
-      "date": "2026-10-16",
-      "day": "Friday",
-      "time": "6:30pm",
-      "title": "This House We Built",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.themotorsportlounge.com/"
-    },
-    {
-      "date": "2026-10-16",
-      "day": "Friday",
-      "time": "Evening",
-      "title": "Live music",
-      "venue": "The Cottage Loaf",
-      "category": "live-music",
-      "url": "https://the-cottageloaf.co.uk/"
-    },
     {
       "date": "2026-10-17",
       "day": "Saturday",
@@ -190,6 +172,16 @@
       "category": "live-music"
     },
     {
+      "date": "2026-11-01",
+      "day": "Sunday",
+      "time": "2:00pm",
+      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
+      "venue": "St Mary's Church Hall, Betws-y-Coed",
+      "category": "live-music",
+      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
+      "welsh": true
+    },
+    {
       "date": "2026-11-02",
       "day": "Monday",
       "time": "7:00pm",
@@ -241,6 +233,16 @@
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-11-15",
+      "day": "Sunday",
+      "time": "2:00pm",
+      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
+      "venue": "St Mary's Church Hall, Betws-y-Coed",
+      "category": "live-music",
+      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
+      "welsh": true
     },
     {
       "date": "2026-11-21",
