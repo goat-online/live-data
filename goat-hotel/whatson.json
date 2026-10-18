@@ -1,15 +1,6 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "events": [
-    {
-      "date": "2026-10-17",
-      "day": "Saturday",
-      "time": "6:30pm",
-      "title": "Pinc Ffloyd (Pink Floyd tribute)",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.themotorsportlounge.com/"
-    },
     {
       "date": "2026-10-18",
       "day": "Sunday",
@@ -108,25 +99,14 @@
     {
       "date": "2026-10-26",
       "day": "Monday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
-    {
-      "date": "2026-10-26",
-      "day": "Monday",
       "time": "7:00pm",
       "title": "Conwy Folk Club: singers' night",
       "venue": "The Gladstone, Dwygyfylchi",
       "category": "live-music"
     },
     {
-      "date": "2026-10-27",
-      "day": "Tuesday",
+      "date": "2026-10-26",
+      "day": "Monday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -163,8 +143,8 @@
       "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
-      "date": "2026-10-28",
-      "day": "Wednesday",
+      "date": "2026-10-27",
+      "day": "Tuesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -192,8 +172,8 @@
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     },
     {
-      "date": "2026-10-29",
-      "day": "Thursday",
+      "date": "2026-10-28",
+      "day": "Wednesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -212,6 +192,17 @@
       "url": "https://wildhorsebrewing.co.uk/pages/booking"
     },
     {
+      "date": "2026-10-29",
+      "day": "Thursday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
+    },
+    {
       "date": "2026-10-30",
       "day": "Friday",
       "time": "Evening",
@@ -223,17 +214,6 @@
     {
       "date": "2026-10-30",
       "day": "Friday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -260,8 +240,8 @@
       "category": "live-music"
     },
     {
-      "date": "2026-11-01",
-      "day": "Sunday",
+      "date": "2026-10-31",
+      "day": "Saturday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -279,6 +259,17 @@
       "category": "live-music",
       "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
       "welsh": true
+    },
+    {
+      "date": "2026-11-01",
+      "day": "Sunday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
     },
     {
       "date": "2026-11-02",
