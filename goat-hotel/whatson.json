@@ -4,11 +4,42 @@
     {
       "date": "2026-10-23",
       "day": "Friday",
+      "time": "3:00pm",
+      "title": "Cambrian Rally: see the rally cars and meet the crews at scrutineering (free)",
+      "venue": "Victoria Centre car park, Llandudno",
+      "category": "market",
+      "url": "https://cambrianrally.co.uk/spectators.html"
+    },
+    {
+      "date": "2026-10-23",
+      "day": "Friday",
       "time": "Evening",
       "title": "Live music",
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Saturday",
+      "time": "8:00am",
+      "title": "Cambrian Rally: start on the Promenade, first car away 8am (free to watch)",
+      "venue": "Llandudno Promenade",
+      "category": "market",
+      "url": "https://cambrianrally.co.uk/spectators.html",
+      "lat": 53.32106,
+      "lon": -3.81798
+    },
+    {
+      "date": "2026-10-24",
+      "day": "Saturday",
+      "time": "5:00pm",
+      "title": "Cambrian Rally: finish on the Promenade, first cars back from about 5pm (free to watch)",
+      "venue": "Llandudno Promenade",
+      "category": "market",
+      "url": "https://cambrianrally.co.uk/spectators.html",
+      "lat": 53.32106,
+      "lon": -3.81798
     },
     {
       "date": "2026-10-24",
@@ -35,14 +66,25 @@
     {
       "date": "2026-10-26",
       "day": "Monday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
+    },
+    {
+      "date": "2026-10-26",
+      "day": "Monday",
       "time": "7:00pm",
       "title": "Conwy Folk Club: singers' night",
       "venue": "The Gladstone, Dwygyfylchi",
       "category": "live-music"
     },
     {
-      "date": "2026-10-26",
-      "day": "Monday",
+      "date": "2026-10-27",
+      "day": "Tuesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -79,8 +121,8 @@
       "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
-      "date": "2026-10-27",
-      "day": "Tuesday",
+      "date": "2026-10-28",
+      "day": "Wednesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -108,8 +150,8 @@
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     },
     {
-      "date": "2026-10-28",
-      "day": "Wednesday",
+      "date": "2026-10-29",
+      "day": "Thursday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -126,17 +168,6 @@
       "venue": "Wild Horse Taproom",
       "category": "quiz",
       "url": "https://wildhorsebrewing.co.uk/pages/booking"
-    },
-    {
-      "date": "2026-10-29",
-      "day": "Thursday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
     },
     {
       "date": "2026-10-30",
@@ -161,6 +192,17 @@
     {
       "date": "2026-10-31",
       "day": "Saturday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Saturday",
       "time": "6:30pm",
       "title": "Monkeywrench (Foo Fighters tribute)",
       "venue": "The Motorsport Lounge",
@@ -174,17 +216,6 @@
       "title": "Traditional folk session",
       "venue": "Tŷ Gwyn, Rowen",
       "category": "live-music"
-    },
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
     },
     {
       "date": "2026-11-01",
@@ -333,6 +364,33 @@
       "welsh": true
     },
     {
+      "date": "2026-11-19",
+      "day": "Thursday",
+      "time": "10:00am",
+      "title": "Conwy @ Christmas: Christmas market in heated marquees on the quay, 10am to 5pm (free)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Friday",
+      "time": "10:00am",
+      "title": "Conwy @ Christmas: Christmas market in heated marquees on the quay, 10am to 5pm (free)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
+      "date": "2026-11-21",
+      "day": "Saturday",
+      "time": "10:00am",
+      "title": "Conwy @ Christmas: Christmas market in heated marquees on the quay, 10am to 5pm (free)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
       "date": "2026-11-21",
       "day": "Saturday",
       "time": "12:30pm",
@@ -341,6 +399,15 @@
       "category": "live-music",
       "url": "https://www.corcaerwys.co.uk/",
       "welsh": true
+    },
+    {
+      "date": "2026-11-22",
+      "day": "Sunday",
+      "time": "10:00am",
+      "title": "Conwy @ Christmas: Christmas market in heated marquees on the quay, 10am to 5pm (free)",
+      "venue": "Conwy Quay, Conwy",
+      "category": "market",
+      "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
     },
     {
       "date": "2026-11-29",
