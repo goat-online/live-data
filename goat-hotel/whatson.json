@@ -1,39 +1,6 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "events": [
-    {
-      "date": "2026-10-24",
-      "day": "Saturday",
-      "time": "8:00am",
-      "title": "Cambrian Rally: start on the Promenade, first car away 8am (free to watch)",
-      "venue": "Llandudno Promenade",
-      "category": "market",
-      "url": "https://cambrianrally.co.uk/spectators.html",
-      "lat": 53.32106,
-      "lon": -3.81798
-    },
-    {
-      "date": "2026-10-24",
-      "day": "Saturday",
-      "time": "5:00pm",
-      "title": "Cambrian Rally: finish on the Promenade, first cars back from about 5pm (free to watch)",
-      "venue": "Llandudno Promenade",
-      "category": "market",
-      "url": "https://cambrianrally.co.uk/spectators.html",
-      "lat": 53.32106,
-      "lon": -3.81798
-    },
-    {
-      "date": "2026-10-24",
-      "day": "Saturday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-25",
       "day": "Sunday",
