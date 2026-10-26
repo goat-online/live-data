@@ -1,28 +1,6 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "events": [
-    {
-      "date": "2026-10-25",
-      "day": "Sunday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
-    {
-      "date": "2026-10-26",
-      "day": "Monday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-26",
       "day": "Monday",
@@ -32,8 +10,8 @@
       "category": "live-music"
     },
     {
-      "date": "2026-10-27",
-      "day": "Tuesday",
+      "date": "2026-10-26",
+      "day": "Monday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -70,8 +48,8 @@
       "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
-      "date": "2026-10-28",
-      "day": "Wednesday",
+      "date": "2026-10-27",
+      "day": "Tuesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -99,8 +77,8 @@
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     },
     {
-      "date": "2026-10-29",
-      "day": "Thursday",
+      "date": "2026-10-28",
+      "day": "Wednesday",
       "time": "Times on the website",
       "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
       "venue": "Gwrych Castle, Abergele",
@@ -117,6 +95,17 @@
       "venue": "Wild Horse Taproom",
       "category": "quiz",
       "url": "https://wildhorsebrewing.co.uk/pages/booking"
+    },
+    {
+      "date": "2026-10-29",
+      "day": "Thursday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
     },
     {
       "date": "2026-10-30",
@@ -141,17 +130,6 @@
     {
       "date": "2026-10-31",
       "day": "Saturday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
       "time": "6:30pm",
       "title": "Monkeywrench (Foo Fighters tribute)",
       "venue": "The Motorsport Lounge",
@@ -165,6 +143,17 @@
       "title": "Traditional folk session",
       "venue": "Tŷ Gwyn, Rowen",
       "category": "live-music"
+    },
+    {
+      "date": "2026-10-31",
+      "day": "Saturday",
+      "time": "Times on the website",
+      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
+      "venue": "Gwrych Castle, Abergele",
+      "category": "market",
+      "url": "https://www.gwrychcastle.co.uk/halloween/",
+      "lat": 53.283299,
+      "lon": -3.608517
     },
     {
       "date": "2026-11-01",
@@ -311,6 +300,14 @@
       "category": "live-music",
       "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
       "welsh": true
+    },
+    {
+      "date": "2026-11-16",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "The Gladstone, Dwygyfylchi",
+      "category": "live-music"
     },
     {
       "date": "2026-11-19",
