@@ -1,25 +1,6 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "events": [
-    {
-      "date": "2026-10-26",
-      "day": "Monday",
-      "time": "7:00pm",
-      "title": "Conwy Folk Club: singers' night",
-      "venue": "The Gladstone, Dwygyfylchi",
-      "category": "live-music"
-    },
-    {
-      "date": "2026-10-26",
-      "day": "Monday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-27",
       "day": "Tuesday",
@@ -308,6 +289,24 @@
       "title": "Conwy Folk Club: singers' night",
       "venue": "The Gladstone, Dwygyfylchi",
       "category": "live-music"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tuesday",
+      "time": "8:30pm",
+      "title": "Pub quiz (a hard one, and good fun)",
+      "venue": "Castle View Bar & Restaurant, Deganwy",
+      "category": "quiz",
+      "url": "https://castleviewpub.com/"
+    },
+    {
+      "date": "2026-11-17",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "title": "Music quiz night",
+      "venue": "Kings Head Pub",
+      "category": "quiz",
+      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
     },
     {
       "date": "2026-11-19",
