@@ -124,8 +124,9 @@
       "day": "Monday",
       "time": "7:00pm",
       "title": "Conwy Folk Club: singers' night",
-      "venue": "The Gladstone, Dwygyfylchi",
-      "category": "live-music"
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/"
     },
     {
       "date": "2026-11-03",
@@ -177,8 +178,9 @@
       "day": "Monday",
       "time": "7:00pm",
       "title": "Conwy Folk Club: singers' night",
-      "venue": "The Gladstone, Dwygyfylchi",
-      "category": "live-music"
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/"
     },
     {
       "date": "2026-11-10",
@@ -248,9 +250,10 @@
       "date": "2026-11-16",
       "day": "Monday",
       "time": "7:00pm",
-      "title": "Conwy Folk Club: singers' night",
-      "venue": "The Gladstone, Dwygyfylchi",
-      "category": "live-music"
+      "title": "Conwy Folk Club guest night: Nastee Chapel (£10 advance, £12 door)",
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/nasteechapel.html"
     },
     {
       "date": "2026-11-17",
