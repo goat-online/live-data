@@ -1,44 +1,6 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "events": [
-    {
-      "date": "2026-10-27",
-      "day": "Tuesday",
-      "time": "7:00pm",
-      "title": "Llandudno Fireworks Display",
-      "venue": "North Shore Beach, Llandudno",
-      "category": "market",
-      "url": "https://www.llandudno.gov.uk/en/events/fireworks/"
-    },
-    {
-      "date": "2026-10-27",
-      "day": "Tuesday",
-      "time": "8:30pm",
-      "title": "Pub quiz (a hard one, and good fun)",
-      "venue": "Castle View Bar & Restaurant, Deganwy",
-      "category": "quiz",
-      "url": "https://castleviewpub.com/"
-    },
-    {
-      "date": "2026-10-27",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "title": "Music quiz night",
-      "venue": "Kings Head Pub",
-      "category": "quiz",
-      "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
-    },
-    {
-      "date": "2026-10-27",
-      "day": "Tuesday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-28",
       "day": "Wednesday",
@@ -307,6 +269,24 @@
       "venue": "Kings Head Pub",
       "category": "quiz",
       "url": "https://www.facebook.com/KingsHeadPubLlandudnoNW/"
+    },
+    {
+      "date": "2026-11-18",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "title": "Pub quiz",
+      "venue": "Llandudno FC Clubhouse",
+      "category": "quiz",
+      "url": "https://www.llandudnofc.co.uk/clubhouse"
+    },
+    {
+      "date": "2026-11-18",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "title": "Quiz night",
+      "venue": "LC Drink & Dine",
+      "category": "quiz",
+      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
     },
     {
       "date": "2026-11-19",
