@@ -1,35 +1,6 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "events": [
-    {
-      "date": "2026-10-28",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Pub quiz",
-      "venue": "Llandudno FC Clubhouse",
-      "category": "quiz",
-      "url": "https://www.llandudnofc.co.uk/clubhouse"
-    },
-    {
-      "date": "2026-10-28",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Quiz night",
-      "venue": "LC Drink & Dine",
-      "category": "quiz",
-      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
-    },
-    {
-      "date": "2026-10-28",
-      "day": "Wednesday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-29",
       "day": "Thursday",
@@ -336,6 +307,16 @@
       "venue": "Conwy Quay, Conwy",
       "category": "market",
       "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
+      "date": "2026-11-29",
+      "day": "Sunday",
+      "time": "2:00pm",
+      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
+      "venue": "St Mary's Church Hall, Betws-y-Coed",
+      "category": "live-music",
+      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
+      "welsh": true
     },
     {
       "date": "2026-11-29",
