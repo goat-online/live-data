@@ -1,26 +1,6 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "events": [
-    {
-      "date": "2026-10-29",
-      "day": "Thursday",
-      "time": "7:00pm",
-      "title": "The Big Fat Tappy Quiz — Halloween Edition",
-      "venue": "Wild Horse Taproom",
-      "category": "quiz",
-      "url": "https://wildhorsebrewing.co.uk/pages/booking"
-    },
-    {
-      "date": "2026-10-29",
-      "day": "Thursday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-30",
       "day": "Friday",
@@ -279,6 +259,15 @@
       "venue": "Conwy Quay, Conwy",
       "category": "market",
       "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
+      "date": "2026-11-20",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-11-21",
