@@ -1,26 +1,6 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "events": [
-    {
-      "date": "2026-10-30",
-      "day": "Friday",
-      "time": "Evening",
-      "title": "Live music",
-      "venue": "The Cottage Loaf",
-      "category": "live-music",
-      "url": "https://the-cottageloaf.co.uk/"
-    },
-    {
-      "date": "2026-10-30",
-      "day": "Friday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-10-31",
       "day": "Saturday",
