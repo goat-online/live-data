@@ -1,34 +1,6 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "events": [
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
-      "time": "6:30pm",
-      "title": "Monkeywrench (Foo Fighters tribute)",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.eventbrite.co.uk/e/1981163259641"
-    },
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
-      "time": "8:00pm",
-      "title": "Traditional folk session",
-      "venue": "Tŷ Gwyn, Rowen",
-      "category": "live-music"
-    },
-    {
-      "date": "2026-10-31",
-      "day": "Saturday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-11-01",
       "day": "Sunday",
