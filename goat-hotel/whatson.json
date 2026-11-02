@@ -1,27 +1,6 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "events": [
-    {
-      "date": "2026-11-01",
-      "day": "Sunday",
-      "time": "2:00pm",
-      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
-      "venue": "St Mary's Church Hall, Betws-y-Coed",
-      "category": "live-music",
-      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
-      "welsh": true
-    },
-    {
-      "date": "2026-11-01",
-      "day": "Sunday",
-      "time": "Times on the website",
-      "title": "Toxic Towers: Zombies at the Castle (family Halloween, tickets)",
-      "venue": "Gwrych Castle, Abergele",
-      "category": "market",
-      "url": "https://www.gwrychcastle.co.uk/halloween/",
-      "lat": 53.283299,
-      "lon": -3.608517
-    },
     {
       "date": "2026-11-02",
       "day": "Monday",
@@ -248,6 +227,15 @@
       "venue": "Conwy Quay, Conwy",
       "category": "market",
       "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
+    },
+    {
+      "date": "2026-11-23",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/"
     },
     {
       "date": "2026-11-29",
