@@ -1,24 +1,6 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "events": [
-    {
-      "date": "2026-11-04",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Pub quiz",
-      "venue": "Llandudno FC Clubhouse",
-      "category": "quiz",
-      "url": "https://www.llandudnofc.co.uk/clubhouse"
-    },
-    {
-      "date": "2026-11-04",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "title": "Quiz night",
-      "venue": "LC Drink & Dine",
-      "category": "quiz",
-      "url": "https://www.lcdrinkandwinellandudno.co.uk/"
-    },
     {
       "date": "2026-11-06",
       "day": "Friday",
@@ -27,6 +9,15 @@
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-11-08",
+      "day": "Sunday",
+      "time": "6:00pm",
+      "title": "The Quo Story: Status Quo tribute (tickets)",
+      "venue": "The Motorsport Lounge",
+      "category": "live-music",
+      "url": "https://www.eventbrite.co.uk/e/the-quo-story-the-international-tribute-to-status-quo-tickets-2003454713981"
     },
     {
       "date": "2026-11-09",
