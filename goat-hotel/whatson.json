@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "events": [
     {
       "date": "2026-11-06",
@@ -249,11 +249,20 @@
     {
       "date": "2026-11-27",
       "day": "Friday",
-      "time": "Evening",
+      "time": "8:00pm",
       "title": "Monsters of Rock (tickets)",
       "venue": "The Motorsport Lounge",
       "category": "live-music",
       "url": "https://ticket247.co.uk/Event/monsters-of-rock-motorsports-lounge-llandudno-27-11-2026-at-the-motorsport-lounge-llandudno-532766"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-11-29",
