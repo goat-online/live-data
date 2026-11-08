@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "events": [
     {
       "date": "2026-11-08",
@@ -240,20 +240,20 @@
     {
       "date": "2026-11-27",
       "day": "Friday",
-      "time": "8:00pm",
-      "title": "Monsters of Rock (tickets)",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://ticket247.co.uk/Event/monsters-of-rock-motorsports-lounge-llandudno-27-11-2026-at-the-motorsport-lounge-llandudno-532766"
-    },
-    {
-      "date": "2026-11-27",
-      "day": "Friday",
       "time": "Evening",
       "title": "Live music",
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Friday",
+      "time": "8:00pm",
+      "title": "Monsters of Rock (tickets)",
+      "venue": "The Motorsport Lounge",
+      "category": "live-music",
+      "url": "https://ticket247.co.uk/Event/monsters-of-rock-motorsports-lounge-llandudno-27-11-2026-at-the-motorsport-lounge-llandudno-532766"
     },
     {
       "date": "2026-11-29",
@@ -274,6 +274,15 @@
       "category": "live-music",
       "url": "https://www.cormeibioncolwyn.co.uk/schedule-of-events/",
       "welsh": true
+    },
+    {
+      "date": "2026-11-30",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/"
     },
     {
       "date": "2026-12-14",
