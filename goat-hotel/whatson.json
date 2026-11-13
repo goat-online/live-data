@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "events": [
     {
       "date": "2026-11-13",
@@ -283,6 +283,15 @@
       "venue": "LC Drink & Dine",
       "category": "quiz",
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
+    },
+    {
+      "date": "2026-12-04",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-12-14",
