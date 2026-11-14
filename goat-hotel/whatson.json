@@ -1,24 +1,6 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "events": [
-    {
-      "date": "2026-11-13",
-      "day": "Friday",
-      "time": "Evening",
-      "title": "Live music",
-      "venue": "The Cottage Loaf",
-      "category": "live-music",
-      "url": "https://the-cottageloaf.co.uk/"
-    },
-    {
-      "date": "2026-11-13",
-      "day": "Friday",
-      "time": "Evening",
-      "title": "Heaven Can Wait: Meat Loaf tribute (tickets from £20)",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.themotorsportlounge.com/"
-    },
     {
       "date": "2026-11-14",
       "day": "Saturday",
@@ -292,6 +274,34 @@
       "venue": "The Cottage Loaf",
       "category": "live-music",
       "url": "https://the-cottageloaf.co.uk/"
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sunday",
+      "time": "All day",
+      "title": "Victoria Centre Christmas Markets (Merry Mostyn Street, free)",
+      "venue": "Victoria Centre, Llandudno",
+      "category": "market",
+      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sunday",
+      "time": "4:00pm",
+      "title": "Llandudno Christmas Parade (free)",
+      "venue": "Mostyn Street, Llandudno",
+      "category": "market",
+      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sunday",
+      "time": "6:00pm",
+      "title": "Mared Williams with Penderyn: Welsh singer, Christmas performance (free)",
+      "venue": "Providero, Llandudno",
+      "category": "live-music",
+      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951",
+      "welsh": true
     },
     {
       "date": "2026-12-14",
