@@ -1,24 +1,6 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "events": [
-    {
-      "date": "2026-11-14",
-      "day": "Saturday",
-      "time": "10:30am",
-      "title": "Pop-up North Wales Contemporary Craft Fair (free entry)",
-      "venue": "Mostyn",
-      "category": "market",
-      "url": "https://mostyn.org/"
-    },
-    {
-      "date": "2026-11-14",
-      "day": "Saturday",
-      "time": "6:30pm",
-      "title": "Nickelback UK: Nickelback tribute (tickets)",
-      "venue": "The Motorsport Lounge",
-      "category": "live-music",
-      "url": "https://www.eventbrite.co.uk/e/nickelback-uk-at-the-motorsport-lounge-llandudno-tickets-1993026386573"
-    },
     {
       "date": "2026-11-15",
       "day": "Sunday",
@@ -177,20 +159,20 @@
     {
       "date": "2026-11-27",
       "day": "Friday",
-      "time": "Evening",
-      "title": "Live music",
-      "venue": "The Cottage Loaf",
-      "category": "live-music",
-      "url": "https://the-cottageloaf.co.uk/"
-    },
-    {
-      "date": "2026-11-27",
-      "day": "Friday",
       "time": "8:00pm",
       "title": "Monsters of Rock (tickets)",
       "venue": "The Motorsport Lounge",
       "category": "live-music",
       "url": "https://ticket247.co.uk/Event/monsters-of-rock-motorsports-lounge-llandudno-27-11-2026-at-the-motorsport-lounge-llandudno-532766"
+    },
+    {
+      "date": "2026-11-27",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-11-28",
@@ -302,6 +284,15 @@
       "category": "live-music",
       "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951",
       "welsh": true
+    },
+    {
+      "date": "2026-12-07",
+      "day": "Monday",
+      "time": "7:00pm",
+      "title": "Conwy Folk Club: singers' night",
+      "venue": "Conwy Comrades Club, Conwy",
+      "category": "live-music",
+      "url": "https://www.conwyfolkclub.org.uk/"
     },
     {
       "date": "2026-12-14",
