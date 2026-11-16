@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "events": [
-    {
-      "date": "2026-11-15",
-      "day": "Sunday",
-      "time": "2:00pm",
-      "title": "Cantorion Gogledd Cymru: open rehearsal (visitors welcome)",
-      "venue": "St Mary's Church Hall, Betws-y-Coed",
-      "category": "live-music",
-      "url": "https://www.cantoriongogleddcymru.co.uk/rehearsals",
-      "welsh": true
-    },
     {
       "date": "2026-11-16",
       "day": "Monday",
@@ -293,6 +283,15 @@
       "venue": "Conwy Comrades Club, Conwy",
       "category": "live-music",
       "url": "https://www.conwyfolkclub.org.uk/"
+    },
+    {
+      "date": "2026-12-11",
+      "day": "Friday",
+      "time": "6:30pm",
+      "title": "These Wicked Rivers, with Jonny Morgan: rock gig (doors 6:30pm, £20 tickets)",
+      "venue": "The Motorsport Lounge",
+      "category": "live-music",
+      "url": "https://www.songkick.com/concerts/43275578-these-wicked-rivers-at-motorsport-lounge"
     },
     {
       "date": "2026-12-14",
