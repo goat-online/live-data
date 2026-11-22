@@ -1,25 +1,6 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "events": [
-    {
-      "date": "2026-11-21",
-      "day": "Saturday",
-      "time": "10:00am",
-      "title": "Conwy @ Christmas: Christmas market in heated marquees on the quay, 10am to 5pm (free)",
-      "venue": "Conwy Quay, Conwy",
-      "category": "market",
-      "url": "https://www.shopforsomethingdifferent.com/events/conwy-christmas/"
-    },
-    {
-      "date": "2026-11-21",
-      "day": "Saturday",
-      "time": "12:30pm",
-      "title": "Côr Meibion Caerwys: White Ribbon concert",
-      "venue": "St John's Methodist Church, Llandudno",
-      "category": "live-music",
-      "url": "https://www.corcaerwys.co.uk/",
-      "welsh": true
-    },
     {
       "date": "2026-11-22",
       "day": "Sunday",
@@ -187,15 +168,6 @@
     {
       "date": "2026-12-06",
       "day": "Sunday",
-      "time": "All day",
-      "title": "Victoria Centre Christmas Markets (Merry Mostyn Street, free)",
-      "venue": "Victoria Centre, Llandudno",
-      "category": "market",
-      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
-    },
-    {
-      "date": "2026-12-06",
-      "day": "Sunday",
       "time": "4:00pm",
       "title": "Llandudno Christmas Parade (free)",
       "venue": "Mostyn Street, Llandudno",
@@ -211,6 +183,15 @@
       "category": "live-music",
       "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951",
       "welsh": true
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sunday",
+      "time": "All day",
+      "title": "Victoria Centre Christmas Markets (Merry Mostyn Street, free)",
+      "venue": "Victoria Centre, Llandudno",
+      "category": "market",
+      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
     },
     {
       "date": "2026-12-07",
