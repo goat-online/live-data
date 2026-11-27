@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "events": [
     {
       "date": "2026-11-27",
@@ -114,15 +114,6 @@
     {
       "date": "2026-12-06",
       "day": "Sunday",
-      "time": "All day",
-      "title": "Victoria Centre Christmas Markets (Merry Mostyn Street, free)",
-      "venue": "Victoria Centre, Llandudno",
-      "category": "market",
-      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
-    },
-    {
-      "date": "2026-12-06",
-      "day": "Sunday",
       "time": "4:00pm",
       "title": "Llandudno Christmas Parade (free)",
       "venue": "Mostyn Street, Llandudno",
@@ -138,6 +129,15 @@
       "category": "live-music",
       "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951",
       "welsh": true
+    },
+    {
+      "date": "2026-12-06",
+      "day": "Sunday",
+      "time": "All day",
+      "title": "Victoria Centre Christmas Markets (Merry Mostyn Street, free)",
+      "venue": "Victoria Centre, Llandudno",
+      "category": "market",
+      "url": "https://www.visitconwy.org.uk/whats-on/merry-mostyn-street-llandudno-p593951"
     },
     {
       "date": "2026-12-07",
@@ -256,6 +256,15 @@
       "venue": "LC Drink & Dine",
       "category": "quiz",
       "url": "https://www.lcdrinkandwinellandudno.co.uk/"
+    },
+    {
+      "date": "2026-12-18",
+      "day": "Friday",
+      "time": "Evening",
+      "title": "Live music",
+      "venue": "The Cottage Loaf",
+      "category": "live-music",
+      "url": "https://the-cottageloaf.co.uk/"
     },
     {
       "date": "2026-12-20",
